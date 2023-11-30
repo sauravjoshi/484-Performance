@@ -4,7 +4,7 @@ config:
     - duration: 5
       arrivalRate: 200
       rampTo: 250
-      name: 'Ramp-up from 200 to 250 users over 5 seconds'
+      name: 'Ramp-up slow 200 to 250 users over 5 seconds'
     - duration: 5
       arrivalRate: 250
       rampTo: 500
